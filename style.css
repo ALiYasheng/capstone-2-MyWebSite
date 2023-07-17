@@ -1,0 +1,37 @@
+.heroBackground{
+    background-image: url(./img/IMG_0363.JPG);
+    background-size: cover;
+    height: 850px;
+}
+.titleText{
+  padding-top: 28%;
+}
+
+.SkillPhoos1{
+  border-radius: 50%;
+  float: left;
+}
+p{
+  display: block;
+  margin-top: 5;
+  text-align: left;
+  padding-left: 50px;
+}
+.text-1{
+  padding-left: 80px;
+}
+.block{
+  display: block;
+}
+.profile{
+    border-radius: 50%;
+}
+.welcome{
+    background: #91BFE6;
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+.container{
+justify-content: center;
+    
+}
